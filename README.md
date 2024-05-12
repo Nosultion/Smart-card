@@ -2,6 +2,8 @@
 基于物联网技术的墨水屏智能校卡  
 开发环境：Vscode-PlatformIO  主控：ESP-WROOM-32  
 ![ec9607b91c22c9a6d36f0a33d1aedb7](https://github.com/Nosultion/Smart-card/assets/116421163/8bc50321-1f07-435d-9de1-fdb08c92b4f5)
+# 功能展示
+https://github.com/Nosultion/Smart-card/assets/116421163/08535c37-dc46-47bb-910c-b5d84677270d
 
 # PCB结构图与原理图(嘉立创EDA)
 ![image](https://github.com/Nosultion/Smart-card/assets/116421163/bc6c55df-10ee-4e2b-ae8c-b91930ca1632)
@@ -14,6 +16,5 @@
 
 # 实现功能
 ![image](https://github.com/Nosultion/Smart-card/assets/116421163/0316cffb-d2f8-4d5d-81fc-57393668efff)
-# 功能展示
-https://github.com/Nosultion/Smart-card/assets/116421163/08535c37-dc46-47bb-910c-b5d84677270d
+
 
